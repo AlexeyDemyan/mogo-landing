@@ -356,6 +356,10 @@ hr {
   background-color: #f8f8f8;
 }
 
+.section--blue {
+  background-color: #4a5bfb;
+}
+
 .section--clients {
   background: #f5f5f5 url('../images/clients-bg.jpg') center no-repeat;
   -webkit-background-size: cover;
@@ -378,13 +382,13 @@ hr {
 .section__suptitle {
   font-family: 'Kaushan Script', cursive;
   font-size: 24px;
-  color: #333;
+  color: #4a5bfb;
 }
 
 .section__title {
   font-size: 30px;
   font-weight: 700;
-  color: #333;
+  color: #4a5bfb;
   text-transform: uppercase;
 }
 
@@ -398,6 +402,14 @@ hr {
   background-color: #4a5bfb;
 }
 
+.header--text-white {
+  color: #fff;
+}
+
+.header--text-white:after {
+    background-color: #fff;
+}
+
 .section__text {
   font-size: 15px;
   color: #999;
@@ -405,7 +417,7 @@ hr {
 
 /* Card */
 .card {
-  margin: 80px -15px 0;
+  margin: 10px -15px 0;
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -418,7 +430,7 @@ hr {
 
 .card__inner {
   position: relative;
-  background-color: #4a5bfb;
+  background-color: #fff;
 }
 
 .card__inner:hover .card__img {
@@ -1207,6 +1219,7 @@ hr {
   width: 100%;
   max-width: 380px;
   display: flex;
+  flex-direction: column;
 }
 
 .subscribe__input {
@@ -1428,10 +1441,6 @@ hr {
   }
 
   /* Card */
-  .card {
-    margin-top: 50px;
-    justify-content: center;
-  }
 
   .card__item {
     width: 100%;
