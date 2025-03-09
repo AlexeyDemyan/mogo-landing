@@ -124,7 +124,7 @@ hr {
 }
 
 .header.active {
-  background-color: #eb8b8d;
+  background-color: #fff;
 }
 
 .header__inner {
@@ -325,7 +325,7 @@ hr {
   width: 70px;
   height: 3px;
 
-  background-color: #f38181;
+  background-color: #4a5bfb;
 
   position: absolute;
   top: -3px;
@@ -395,7 +395,7 @@ hr {
   height: 3px;
   margin: 30px auto;
 
-  background-color: #f38181;
+  background-color: #4a5bfb;
 }
 
 .section__text {
@@ -488,7 +488,7 @@ hr {
 
 /* Statistics */
 .statistics {
-  background-color: #95e1d3;
+  background-color: #4a5bfb;
 }
 
 .stat {
@@ -500,14 +500,14 @@ hr {
   flex: 1 1 0;
   padding: 70px 25px;
 
-  border-left: 1px solid #b5eae0;
+  border-left: 1px solid #4a5bfb;
 
   text-align: center;
   color: #fff;
 }
 
 .stat__item:last-child {
-  border-right: 1px solid #b5eae0;
+  border-right: 1px solid #4a5bfb;
 }
 
 .stat__count {
@@ -691,7 +691,7 @@ hr {
   width: 210px;
   height: 210px;
 
-  border: 2px solid #95e1d3;
+  border: 2px solid #4a5bfb;
   border-radius: 50%;
 
   position: absolute;
@@ -723,7 +723,7 @@ hr {
   height: 3px;
   margin-right: 10px;
 
-  background-color: #f38181;
+  background-color: #4a5bfb;
 }
 
 .slick-arrow {
@@ -777,12 +777,12 @@ hr {
   height: 55px;
   padding: 12px 10px;
 
-  background-color: #fce38a;
-  border-right: 1px solid #f38181;
+  background-color: #fff;
+  border-right: 1px solid #4a5bfb;
 
   font-size: 30px;
   text-decoration: none;
-  color: #f38181;
+  color: #4a5bfb;
   line-height: 1;
 
   transition: background 0.1s linear, color 0.1s linear;
@@ -794,7 +794,7 @@ hr {
 
 .social__item:hover {
   color: #fff;
-  background-color: #f38181;
+  background-color: #4a5bfb;
 }
 
 /* Logos */
@@ -929,7 +929,7 @@ hr {
   height: 3px;
   margin: 15px 0;
 
-  background-color: #f38181;
+  background-color: #4a5bfb;
 }
 
 /* Blog */
@@ -958,7 +958,7 @@ hr {
 .blog__date {
   padding: 10px 20px;
 
-  background-color: #95e1d3;
+  background-color: #4a5bfb;
 
   font-style: italic;
   font-size: 15px;
@@ -1033,7 +1033,7 @@ hr {
 
 .map__title {
   font-size: 24px;
-  color: #f38181;
+  color: #4a5bfb;
   font-weight: 700;
   text-transform: uppercase;
 }
@@ -1045,7 +1045,7 @@ hr {
   height: 3px;
   margin: 15px auto 0;
 
-  background-color: #f38181;
+  background-color: #4a5bfb;
 }
 
 .map__title a {
@@ -1135,7 +1135,7 @@ hr {
   margin-left: 10px;
 
   font-size: 18px;
-  color: #95e1d3;
+  color: #4a5bfb;
 }
 
 .footer__title {
@@ -1232,7 +1232,7 @@ hr {
 
 .subscribe__input:focus {
   outline: 0;
-  border-color: #95e1d3;
+  border-color: #4a5bfb;
 }
 
 .subscribe__btn {
@@ -1240,7 +1240,7 @@ hr {
   height: 40px;
   padding: 12px 30px;
 
-  background-color: #95e1d3;
+  background-color: #6372f8;
   border: 0;
   cursor: pointer;
 
@@ -1255,7 +1255,7 @@ hr {
 }
 
 .subscribe__btn:hover {
-  background-color: #74c7b8;
+  background-color: #0026ff;
 }
 
 .subscribe__btn:focus {
@@ -1274,7 +1274,7 @@ hr {
 }
 
 .copyright span {
-  color: #f38181;
+  color: #4a5bfb;
 }
 
 @media (max-width: 1230px) {
