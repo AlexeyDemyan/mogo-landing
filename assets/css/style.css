@@ -418,7 +418,7 @@ hr {
 
 .card__inner {
   position: relative;
-  background-color: #95e1d3;
+  background-color: #4a5bfb;
 }
 
 .card__inner:hover .card__img {
@@ -434,7 +434,7 @@ hr {
 }
 
 .card__img {
-  background: linear-gradient(to bottom, #f38181, #fce38a);
+  background: linear-gradient(to bottom, #4a5bfb, #fff);
 
   transition: transform 0.2s linear;
 }
@@ -827,7 +827,7 @@ hr {
 .works__item {
   position: relative;
 
-  background: linear-gradient(to bottom, #f38181, #fce38a);
+  background: linear-gradient(to bottom, #4a5bfb, #fff);
 }
 
 .works__item:hover .works__image {
@@ -1093,7 +1093,7 @@ hr {
 
   font-size: 46px;
   font-weight: 700;
-  color: #ccc;
+  color: #4a5bfb;
 }
 
 .footer__text {
